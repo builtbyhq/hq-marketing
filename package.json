@@ -37,7 +37,7 @@
     "nib": "1.1.2",
     "pug": "^2.0.4",
     "rupture": "0.6.2",
-    "superstatic": "4.0.3",
+    "superstatic": "5.0.2",
     "uglifyify": "^3.0.4"
   }
 }
